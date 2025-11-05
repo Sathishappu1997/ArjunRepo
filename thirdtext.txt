@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Sathish Data Helloooooo
 Last Line
+=======
+Sathish Data
+Finally
+>>>>>>> sathish
